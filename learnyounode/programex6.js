@@ -1,0 +1,1 @@
+var module = require('./programex6-module');
